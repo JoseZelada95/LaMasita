@@ -1,6 +1,3 @@
-hla as
-das
-dasasd
-asda
-sda
-sdasd
+esta es nueva configuracion
+
+con informacion legible
