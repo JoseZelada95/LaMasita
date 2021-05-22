@@ -6,5 +6,5 @@ lo que quiero hacer es :
 -luego quiero cambiar a una version inicial
 - luego retomar la que tenia antes del cambio de version
 -luego quiero eliminar la ultima y quedarme con la anterior.
-
+   cambio 1
 
