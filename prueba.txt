@@ -7,4 +7,6 @@ lo que quiero hacer es :
 - luego retomar la que tenia antes del cambio de version
 -luego quiero eliminar la ultima y quedarme con la anterior.
    cambio 1
+   cambio 2
+   
 
