@@ -1,5 +1,4 @@
-esta es nueva configuracion
+-aqui ya hice unn cambio en una rama anterior y
+ahora sera una nueva linea temporal.
 
-con informacion legible
 
-en camara parece alto pero no es tan alto
