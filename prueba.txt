@@ -1,4 +1,10 @@
--aqui ya hice unn cambio en una rama anterior y
-ahora sera una nueva linea temporal.
+Esta seria mi primera linea 
+intentandolo yo solo sin videos.
+lo que quiero hacer es :
+
+-guardar cambios en stagin
+-luego quiero cambiar a una version inicial
+- luego retomar la que tenia antes del cambio de version
+-luego quiero eliminar la ultima y quedarme con la anterior.
 
 
