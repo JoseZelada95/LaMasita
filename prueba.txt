@@ -1,10 +1,5 @@
-Esta seria mi primera linea 
-intentandolo yo solo sin videos.
-lo que quiero hacer es :
+esta es nueva configuracion
 
--guardar cambios en stagin
--luego quiero cambiar a una version inicial
-- luego retomar la que tenia antes del cambio de version
--luego quiero eliminar la ultima y quedarme con la anterior.
+con informacion legible
 
-
+en camara parece alto pero no es tan alto
